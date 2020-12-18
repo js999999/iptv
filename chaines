@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Hír TV élő
+https://stream.radioszerver.com:443/hirtv/wITMxEDOxgTM.m3u8
+#EXTINF:-1,Hír TV 1 órával késleltetett
+https://stream.radioszerver.com:443/hirtv_delayed/wITMxEDOxgTM.m3u8
+#EXTINF:-1,ATV 1 órával késleltetett adás
+http://streamservers.atv.hu:80/atvlive/atvstream_2_aac/playlist.m3u8
