@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/4740.png",Hír TV élő
-https://stream.radioszerver.com:443/hirtv/0AjMxETMxkTM.m3u8
+https://stream.radioszerver.com:443/hirtv/wITMxEjMykTM.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/4740.png",Hír TV 1 órával késleltetett
-https://stream.radioszerver.com:443/hirtv_delayed/0AjMxETMxkTM.m3u8
+https://stream.radioszerver.com:443/hirtv_delayed/wITMxEjMykTM.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/4739.png",ATV 1 órával késleltetett adás
 http://streamservers.atv.hu:80/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/5901.png",M1
-http://stream2.radioszerver.com:80/PLTV/88888888/224/3221225938/index.m3u8
+https://streaming.mytvback.com:443/channel501/stream.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/5902.png",M2
-http://stream2.radioszerver.com:80/PLTV/88888888/224/3221225937/index.m3u8
+https://streaming.mytvback.com:443/channel502/stream.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/5931.png",M3
 https://stream.radioszerver.com:443/m3/wITMxEjMykTM.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/5903.png",M4
-http://stream2.radioszerver.com:80/PLTV/88888888/224/3221225940/index.m3u8
+https://streaming.mytvback.com:443/channel505/stream.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/5904.png",M5
-http://stream2.radioszerver.com:80/PLTV/88888888/224/3221225942/index.m3u8
+https://streaming.mytvback.com:443/channel506/stream.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/6141.png",RTL Klub
-http://stream1448.radioszerver.com:2082/rtlklub-g3tgg.ts
+https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/6142.png",RTL2
 https://stream.y5.hu:443/stream/stream_rtl2/hls1/stream.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/6148.png",RTL Gold
