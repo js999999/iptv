@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://onlinestream.live/logos/4740.png",Hír TV élő
-https://onlinestream.live/play.m3u8?id=4740&ch=1&ext=.m3u8
-#EXTINF:-1 tvg-logo="https://onlinestream.live/logos/4740.png",Hír TV 1 órával késleltetett
-https://stream.radioszerver.com:443/hirtv_delayed/wITMxEjMykTM.m3u8
+#EXTINF:-1 tvg-logo="https://onlinestream.live/logos/4740.png",Hír TV
+https://stream.radioszerver.com/hirtv/0AjMxETMwEjM.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/4739.png",ATV 1 órával késleltetett adás
 http://streamservers.atv.hu:80/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/5901.png",M1
 https://streaming.mytvback.com:443/channel501/stream.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/5902.png",M2
 https://streaming.mytvback.com:443/channel502/stream.m3u8
-#EXTINF:-1 tvg-logo="https://onlinestream.live/logos/5931.png",M3
-https://stream.radioszerver.com:443/m3/wITMxEjMykTM.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/5903.png",M4
 https://streaming.mytvback.com:443/channel505/stream.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/5904.png",M5
