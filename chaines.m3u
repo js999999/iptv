@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/4740.png",Hír TV élő
-https://onlinestream.live/play.m3u?id=4740&ext=.m3u
+https://onlinestream.live/play.m3u8?id=4740&ch=1&ext=.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/4740.png",Hír TV 1 órával késleltetett
 https://stream.radioszerver.com:443/hirtv_delayed/wITMxEjMykTM.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/4739.png",ATV 1 órával késleltetett adás
